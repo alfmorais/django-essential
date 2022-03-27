@@ -1,1 +1,1 @@
-# django-essential
+# Missão Django Especialista
